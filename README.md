@@ -1,4 +1,4 @@
-# Advertising-Sales-Channels-Predicition
+# Advertising-Sales-Channels-Predicition Model
 
 Advertising Sales Channel Prediction Problem Statement: Sales Channel Prediction Case Study
 
